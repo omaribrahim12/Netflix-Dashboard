@@ -1,4 +1,4 @@
-# netflix-dashboard
+# Netflix-Dashboard
 
 https://public.tableau.com/app/profile/omar.elzr/viz/NetflixDashboard_17092100040510/Dashboard1
 
