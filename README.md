@@ -1,5 +1,7 @@
 # netflix-dashboard
 
+https://public.tableau.com/app/profile/omar.elzr/viz/NetflixDashboard_17092100040510/Dashboard1
+
 ## Overview
 
 Today's focus was on understanding Netflix's content trends, ranging from movie production evolution to audience preferences and show distribution by country.
